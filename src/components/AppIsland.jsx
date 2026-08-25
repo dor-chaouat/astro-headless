@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback, useRef } from 'react';
+import { useState, useEffect, useCallback, useRef } from 'react';
 import { currentCart } from '@wix/ecom';
 import { redirects } from '@wix/redirects';
 import { media } from '@wix/sdk';
